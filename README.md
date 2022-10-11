@@ -4,7 +4,7 @@
 
 Actually i'm an IT Student 3rd year of CFC Application Developer - Lausanne, Suisse</p>
 
-###↟↟ 🚴 🌍 📷 🌿 🗻 🎬 🍜 : l🖤ver ↟↟
+### ↟↟ 🚴 🌍 📷 🌿 🗻 🎬 🍜 : l🖤ver ↟↟
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fl0?label=Follow)](https://twitter.com/intent/follow?screen_name=fl0) [![Linkedin: floriang](https://img.shields.io/badge/-floriang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/floriangay/)](https://www.linkedin.com/in/floriangay/) ![GitHub followers](https://img.shields.io/github/followers/flowgrapher?label=Follow&style=social) [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://fl0.me/)](http://fl0.me/) ![Youtube view](https://img.shields.io/youtube/channel/views/UC53y6F_F-57ufPi1OKqwDyw?style=social)
 
@@ -35,16 +35,16 @@ const flow = {
     askMeAbout: ["web dev", "tech", "app dev", "hiking", "photography"],
     technologies: {
         backend:: ["Node", "C#", "PHP"],
-        frontend: ["HTML5", "CSS3", "React", "Angular", "Wordpress"]
-        mobileApp: ["Expo : React Native"]
+        frontend: ["HTML5", "CSS3", "React", "Angular", "Wordpress"],
+        mobileApp: ["Expo : React Native"],
         devOps: ["Bash", "Docker🐳", "Nginx", "Jenkins"],
         databases: ["SQLite", "MySql", "MangoDB"],
     },
 };
 const grapher = {
-    design: ["Lightroom", "Photoshop", "Figma"]
-    motion: ["Premiere Pro"]
-    methodology: ["Agile", "Scrum"]
+    design: ["Lightroom", "Photoshop", "Figma"],
+    motion: ["Premiere Pro"],
+    methodology: ["Agile", "Scrum"],
 }
 ```
 
