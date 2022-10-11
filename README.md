@@ -1,6 +1,8 @@
 <h2>FlowGrapher | Florian G. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=flowgrapher&style=flat-square"></h2>
 
-<p><img align="right" alt="Profile Hits" src="https://latika.ch/img/flowgrapher_github.jpg" height="100">Hi, I'm Florian G. a web and app developer 👨🏻‍💻 from Switzerland. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
+<p><img align="right" alt="Profile Hits" src="https://latika.ch/img/flowgrapher_github.jpg" height="100">Hi, I'm Florian G. a web and app developer 👨🏻‍💻 from Switzerland. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for polished products.
+
+⏳ **Study Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.55 %
 
 Actually i'm an IT Student 3rd year of CFC Application Developer - Lausanne, Suisse</p>
 
@@ -42,9 +44,10 @@ const flow = {
     },
 };
 const grapher = {
-    design: ["Lightroom", "Photoshop", "Figma"],
-    motion: ["Premiere Pro"],
+    designPhotos: ["Lightroom", "Photoshop", "Illustrator", "Figma", "XD"],
+    videoEditing: ["Premiere Pro", "Davinci Resolve"],
     methodology: ["Agile", "Scrum"],
+    interest: ["SEO", "AI", "GrowHacking"]
 }
 ```
 
