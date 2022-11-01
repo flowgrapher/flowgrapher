@@ -4,7 +4,7 @@
 
 ⏳ **Study Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.55 %
 
-Actually i'm an IT Student 3rd year of CFC Application Developer - Lausanne, Suisse</p>
+Actually I'm an IT Student 3rd year of CFC Application Developer - Lausanne, Suisse</p>
 
 ### ↟↟ 🚴 🌍 📷 🌿 🗻 🎬 🍜 : l🖤ver ↟↟
 
@@ -20,13 +20,13 @@ AND RH_Team
 LIKE '%ME%'
 ```
 
-## 🌱 Growing 2 beautifuls project & my daughter👧
+## 🌱 Growing 2 beautiful projects & my daughter👧
 
 <img src="https://golun.ch/images/golunch-logo-mini.png" height="30"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://consomaction.app/img/consomaction-mini-logo_color.png" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://latika.ch/img/cigogne.png" height="50">
 
-<p><strong>GoLun.ch</strong> | Find lunch placs around your position 📍🍜🍴</p>
+<p><strong>GoLun.ch</strong> | Find lunch places around your position 📍🍜🍴</p>
 <p><strong>Consomaction.app</strong> | Track your drinking habits 🍺🍹🍷</p>
-<p><strong>Latika.ch</strong> | She own her domain name since she born 👼🍼👩‍💻</p>
+<p><strong>Latika.ch</strong> | She owns her domain name since she was born 👼🍼👩‍💻</p>
 
 ## 🔧 Technologies & Tools
 
