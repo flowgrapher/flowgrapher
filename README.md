@@ -22,7 +22,7 @@ LIKE '%ME%'
 
 ## 🌱 Growing 2 beautiful projects & my daughter👧
 
-<img src="https://golun.ch/images/golunch-logo-mini.png" height="30"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://consomaction.app/img/consomaction-mini-logo_color.png" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://latika.ch/img/cigogne.png" height="50">
+<img src="https://app.golun.ch/images/golunch-logo-mini.png" height="30"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://consomaction.app/img/consomaction-mini-logo_color.png" height="35"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://latika.ch/img/cigogne.png" height="50">
 
 <p><strong>GoLun.ch</strong> | Find lunch places around your position 📍🍜🍴</p>
 <p><strong>Consomaction.app</strong> | Track your drinking habits 🍺🍹🍷</p>
