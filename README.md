@@ -2,7 +2,7 @@
 
 <p><img align="right" alt="Profile Hits" src="https://latika.ch/img/flowgrapher_github.jpg" height="150">Hi, I'm Florian G. a web and app developer 👨🏻‍💻 from Switzerland. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for polished products.
 
-⏳ **Study Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.55 %
+⏳ **Study Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 67.55 %
 
 Actually I'm an IT Student 3rd year of CFC Application Developer - Lausanne, Suisse</p>
 
